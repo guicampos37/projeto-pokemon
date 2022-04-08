@@ -16,3 +16,7 @@
 </ul>
 
 <p>Ao final do programa, teremos o vencedor sendo exibido na tela a partir de um GIF e um histórico de batalha no nosso console</p>
+
+
+https://user-images.githubusercontent.com/97052742/162363793-c0795d0a-b60d-4c30-a3d5-680df7192d54.mp4
+
